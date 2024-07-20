@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Materepooja2000
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Terraform
-- 💞️ I’m learning Devops from youtubers like Abhishek Veeramala,Gaurav Sharma,Cloud champ
+- 💞️ I’m learning Devops from youtubers like Abhishek Veeramala,Gaurav Sharma,Cloud champ ,trainwithshubham
 - 📫 How to reach me  - Poojamatere75@gmail.com
 - ⚡ I am Mastikhor reponsible mulgi
 
